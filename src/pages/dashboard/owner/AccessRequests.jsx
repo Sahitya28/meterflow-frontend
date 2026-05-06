@@ -39,7 +39,7 @@ const AccessRequests = () => {
     setError("");
     setSuccess("");
     try {
-      const res = await accessAPI.approve(requestId, {
+      await accessAPI.approve(requestId, {
         rateLimit: rateLimits[requestId] || 60,
       });
       setSuccess(`Access approved successfully`);
