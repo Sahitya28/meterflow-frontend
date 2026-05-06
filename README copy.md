@@ -2,7 +2,7 @@
 
 > One platform for API owners and developers. Publish APIs, manage access, track every request, and handle billing automatically.
 
-![MeterFlow](https://img.shields.io/badge/Apilio-API%20Billing%20Platform-indigo)
+![MeterFlow](https://img.shields.io/badge/MeterFlow-API%20Billing%20Platform-indigo)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 ![React](https://img.shields.io/badge/React-19-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
